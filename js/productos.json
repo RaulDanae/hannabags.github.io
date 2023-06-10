@@ -1,0 +1,262 @@
+[
+    {
+        "id": "bolsa2",
+        "titulo": "Marlene",
+        "imagen": "./img/Bolsa3.png",
+        "categoria": {
+            "nombre": "Bolsa Mediana",
+            "id": "bolsaMediana"
+        },
+        "precio": 849.00
+    },    
+    {
+        "id": "bolsa3",
+        "titulo": "Diana",
+        "imagen": "./img/Bolsa4.png",
+        "categoria": {
+            "nombre": "Bolsa Mediana",
+            "id": "bolsaMediana"
+        },
+        "precio": 749.00
+    },
+    {
+        "id": "bolsa4",
+        "titulo": "Pamela",
+        "imagen": "./img/Bolsa5.png",
+        "categoria": {
+            "nombre": "Bolsa Mediana",
+            "id": "bolsaMediana"
+        },
+        "precio": 749.00
+    },
+    {
+        "id": "bolsa5",
+        "titulo": "Melissa",
+        "imagen": "./img/Bolsa9.png",
+        "categoria": {
+            "nombre": "Bolsa Mediana",
+            "id": "bolsaMediana"
+        },
+        "precio": 789.00
+    },
+    {
+        "id": "bolsa6",
+        "titulo": "Renata",
+        "imagen": "./img/Bolsa10.png",
+        "categoria": {
+            "nombre": "Bolsa Mediana",
+            "id": "bolsaMediana"
+        },
+        "precio": 690.00
+    },
+    {
+        "id": "bolsa7",
+        "titulo": "Regina",
+        "imagen": "./img/Bolsa11.png",
+        "categoria": {
+            "nombre": "Bolsa Mediana",
+            "id": "bolsaMediana"
+        },
+        "precio": 1590.00
+    },
+    {
+        "id": "bolsa8",
+        "titulo": "Carolina",
+        "imagen": "./img/Bolsa13.png",
+        "categoria": {
+            "nombre": "Bolsa Mediana",
+            "id": "bolsaMediana"
+        },
+        "precio": 690.00
+    },
+    {
+        "id": "bolsa9",
+        "titulo": "Lolita",
+        "imagen": "./img/Bolsa14.png",
+        "categoria": {
+            "nombre": "Bolsa Mediana",
+            "id": "bolsaMediana"
+        },
+        "precio": 1549.00
+    },
+    {
+        "id": "bolsa10",
+        "titulo": "Abigail",
+        "imagen": "./img/Bolsa15.jpg",
+        "categoria": {
+            "nombre": "Bolsa Grande",
+            "id": "bolsaGrande"
+        },
+        "precio": 1790.00
+    },
+    {
+        "id": "bolsa11",
+        "titulo": "Becca",
+        "imagen": "./img/Bolsa16.jpg",
+        "categoria": {
+            "nombre": "Bolsa Grande",
+            "id": "bolsaGrande"
+        },
+        "precio": 1790.00
+    },
+    {
+        "id": "bolsa12",
+        "titulo": "Dakota",
+        "imagen": "./img/Bolsa17.jpg",
+        "categoria": {
+            "nombre": "Bolsa Mediana",
+            "id": "bolsaMediana"
+        },
+        "precio": 1549.00
+    },
+    {
+        "id": "bolsa13",
+        "titulo": "Brisa",
+        "imagen": "./img/Bolsa18.jpg",
+        "categoria": {
+            "nombre": "Bolsa Grande",
+            "id": "bolsaGrande"
+        },
+        "precio": 1790.00
+    },
+    {
+        "id": "bolsa14",
+        "titulo": "Eira",
+        "imagen": "./img/Bolsa19.jpg",
+        "categoria": {
+            "nombre": "Bolsa Mediana",
+            "id": "bolsaMediana"
+        },
+        "precio": 1549.00
+    },
+    {
+        "id": "bolsa15",
+        "titulo": "Chenoa",
+        "imagen": "./img/Bolsa21.jpg",
+        "categoria": {
+            "nombre": "Bolsa Grande",
+            "id": "bolsaGrande"
+        },
+        "precio": 1790.00
+    },
+    {
+        "id": "bolsa16",
+        "titulo": "Greta",
+        "imagen": "./img/Bolsa22.jpg",
+        "categoria": {
+            "nombre": "Bolsa Mediana",
+            "id": "bolsaMediana"
+        },
+        "precio": 1549.00
+    },
+    {
+        "id": "bolsa17",
+        "titulo": "Juno",
+        "imagen": "./img/Bolsa23.jpg",
+        "categoria": {
+            "nombre": "Bolsa Mediana",
+            "id": "bolsaMediana"
+        },
+        "precio": 1549.00
+    },
+    {
+        "id": "bolsa18",
+        "titulo": "Lea",
+        "imagen": "./img/Bolsa24.jpg",
+        "categoria": {
+            "nombre": "Bolsa Grande",
+            "id": "bolsaGrande"
+        },
+        "precio": 1790.00
+    },
+    {
+        "id": "bolsa19",
+        "titulo": "Maya",
+        "imagen": "./img/Bolsa25.jpg",
+        "categoria": {
+            "nombre": "Bolsa Grande",
+            "id": "bolsaGrande"
+        },
+        "precio": 1790.00
+    },
+    {
+        "id": "bolsa20",
+        "titulo": "Malva",
+        "imagen": "./img/Bolsa26.jpg",
+        "categoria": {
+            "nombre": "Bolsa Mediana",
+            "id": "bolsaMediana"
+        },
+        "precio": 1549.00
+    },
+    {
+        "id": "bolsa21",
+        "titulo": "Ofelia",
+        "imagen": "./img/Bolsa27.jpg",
+        "categoria": {
+            "nombre": "Bolsa Grande",
+            "id": "bolsaGrande"
+        },
+        "precio": 1790.00
+    },
+    {
+        "id": "bolsa22",
+        "titulo": "Ingrid",
+        "imagen": "./img/Bolsa28.jpg",
+        "categoria": {
+            "nombre": "Bolsa Mediana",
+            "id": "bolsaMediana"
+        },
+        "precio": 1549.00
+    },
+    {
+        "id": "bolsa23",
+        "titulo": "Inari",
+        "imagen": "./img/Bolsa29.jpg",
+        "categoria": {
+            "nombre": "Bolsa Mediana",
+            "id": "bolsaMediana"
+        },
+        "precio": 1549.00
+    },
+    {
+        "id": "bolsa24",
+        "titulo": "Galilea",
+        "imagen": "./img/Bolsa30.jpg",
+        "categoria": {
+            "nombre": "Bolsa Mediana",
+            "id": "bolsaMediana"
+        },
+        "precio": 1549.00
+    },
+    {
+        "id": "bolsa25",
+        "titulo": "Coral",
+        "imagen": "./img/Bolsa31.jpg",
+        "categoria": {
+            "nombre": "Bolsa Grande",
+            "id": "bolsaGrande"
+        },
+        "precio": 1790.00
+    },
+    {
+        "id": "bolsa26",
+        "titulo": "Bertina",
+        "imagen": "./img/Bolsa32.jpg",
+        "categoria": {
+            "nombre": "Bolsa Mediana",
+            "id": "bolsaMediana"
+        },
+        "precio": 1549.00
+    },
+    {
+        "id": "bolsa27",
+        "titulo": "Natasha",
+        "imagen": "./img/Bolsa33.jpg",
+        "categoria": {
+            "nombre": "Bolsa Mediana",
+            "id": "bolsaMediana"
+        },
+        "precio": 1549.00
+    }
+]
